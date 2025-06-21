@@ -12,6 +12,7 @@ export default InstructionText;
 
 const styles = StyleSheet.create({
     gameInstruction: {
+        fontFamily: 'open-sans',
         color: Colors.accent500,
         fontSize: 24
     },
